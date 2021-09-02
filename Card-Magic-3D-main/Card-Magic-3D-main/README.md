@@ -9,12 +9,12 @@
 - [CSS]()
 
 <h2>🎨 Layouts</h2>
-<img src="img/yugioh.gif">
+<img src="img/magic.gif">
 
  <h2 id="autor"> 🦸 Autor</h2>
 
-[Rodrigo-Souza-Dev](https://github.com/Rodrigo-Souza-DEV)
+[jonathanmesquita](https://github.com/jonathanmesquita)
 
-<p>Feito por Rodrigo Souza.</p>
+<p>Feito por Jonathan Mesquita</p>
 <hr>
 
