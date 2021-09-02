@@ -1,4 +1,4 @@
-# Card-Yugioh-3D
+# Card-Magic-3D
 
 <hr>
 <h2>📋 Sobre o projeto</h2>
