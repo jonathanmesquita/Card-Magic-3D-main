@@ -3,6 +3,12 @@
 <hr>
 <h2>📋 Sobre o projeto</h2>
 <p>Animação 3D criada com CSS Puro.</p>
+
+
+<h2>DEMO<h2>
+Link:
+ https://jonathanmesquita.github.io/Card-Magic-3D-main/
+ 
  <h2 id="techs"> 💻 Tecnologias</h2>
  
 - [HTML]()
