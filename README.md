@@ -5,9 +5,10 @@
 <p>Animação 3D criada com CSS Puro.</p>
 
 
-<h2>DEMO<h2>
-Link:
- https://jonathanmesquita.github.io/Card-Magic-3D-main/
+<h2>DEMO</h2>
+Link: 
+<a href="https://jonathanmesquita.github.io/Card-Magic-3D-main/">DEMO</a>
+ 
  
  <h2 id="techs"> 💻 Tecnologias</h2>
  
