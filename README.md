@@ -1,22 +1,27 @@
 # Card-Magic-3D
 
-<hr>
-<h2>📋 Sobre o projeto</h2>
-<p>Animação 3D criada com CSS Puro.</p>
+Nesse objetivo do projeto de CSS do magic.
 
+Animação 3D criada com CSS Puro.
 
-<h2>DEMO</h2>
-Link: 
-<a href="https://jonathanmesquita.github.io/Card-Magic-3D-main/">DEMO</a>
- 
- 
- <h2 id="techs"> 💻 Tecnologias</h2>
- 
-- [HTML]()
-- [CSS]()
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :label: Tecnologias | javascript, html, css
+| :rocket: URL         | [Demo do jogo do Magic](https://jonathanmesquita.github.io/Card-Magic-3D-main/)
+| :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](https://jonathanmesquita.github.io/Card-Magic-3D-main/)
 
-<h2>🎨 Layouts</h2>
-<img src="img/magic.gif">
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](img src="img/magic.gif#vitrinedev)
+
+## Detalhes do projeto
+
+Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+
+Depois de algum tempo empacado em um projeto pessoal fiquei bastante desanimado e não conseguia fazer mais nada e esse desafio da [Alura](https://www.alura.com.br/) me ajudou a destravar.
+
+- Utilizado HTML
+- Utilizado CSS
 
  <h2 id="autor"> 🦸 Autor</h2>
 
