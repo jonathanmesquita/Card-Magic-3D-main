@@ -12,7 +12,7 @@ Animação 3D criada com CSS Puro.
 | :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](https://jonathanmesquita.github.io/Card-Magic-3D-main/)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](img src="img/magic.gif#vitrinedev)
+![](https://github.com/jonathanmesquita/Card-Magic-3D-main/blob/main/img/magic.gif#vitrinedev)
 
 ## Detalhes do projeto
 
