@@ -6,7 +6,7 @@ Animação 3D criada com CSS Puro.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Projeto javascript jogo mario.**
+| :sparkles: Nome        | **Projeto Card Magic 3D*
 | :label: Tecnologias | javascript, html, css
 | :rocket: URL         | [Demo do jogo do Magic](https://jonathanmesquita.github.io/Card-Magic-3D-main/)
 | :fire: Desafio     | [Manual do Dev - Jogo Simples usando JavaScript e HTML](https://jonathanmesquita.github.io/Card-Magic-3D-main/)
